@@ -9,7 +9,7 @@ file = source zip file, default: none\
 ext = extension for filter, default: empty
 
 ## todo
-not realized:\
+not realized:
 - methods & wrong routes logging
 - move routing implements in divided file & package
 - refactor: separate route functions define and usage
